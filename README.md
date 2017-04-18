@@ -16,4 +16,4 @@ If you want to get this to work properly, use it with the **Hide Caption Titleba
 
 ## 4chan.json
 
-This is my custom 4chan theme, you'll need **4chan X** and **OneeChan**. To install go to the *Themes* tab in the OneeChan settings and import 4chan.json.
+Custom 4chan theme, you'll need **4chan X** and **OneeChan**. To install go to the *Themes* tab in the OneeChan settings and import 4chan.json.
