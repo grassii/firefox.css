@@ -1,10 +1,14 @@
-# Information
-
-You'll need to install the **Stylish** addon to use these.
-
 ## firefox.css
 
-If you want to get this to work properly, use it with the **Hide Caption Titlebar Plus** Firefox Addon and adjust the settings like this:
+Affects the Firefox interface.
+
+Firefox addons required:
+
+`Stylish`
+
+`Hide Caption Titlebar Plus`
+
+**Settings:** 
 
 ![](https://a.pomfe.co/jwomxqg.png)
 
@@ -16,4 +20,12 @@ If you want to get this to work properly, use it with the **Hide Caption Titleba
 
 ## 4chan.json
 
-Custom 4chan theme, you'll need **4chan X** and **OneeChan**. To install go to the *Themes* tab in the OneeChan settings and import 4chan.json.
+Affects 4chan's appearance.
+
+Install Greasemonkey first, then install these scripts:
+
+`4chan X`
+
+`OneeChan`
+
+To use the theme go to the *Themes* tab in the OneeChan settings and import 4chan.json.
