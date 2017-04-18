@@ -10,13 +10,13 @@ Firefox addons required:
 
 **Settings:** 
 
-![](https://a.pomfe.co/jwomxqg.png)
+![](https://a.pomfe.co/ulcaxsx.jpg)
 
-![](https://a.pomfe.co/aqtkgkg.png)
+![](https://a.pomfe.co/rdvmgji.jpg)
 
-![](https://a.pomfe.co/vzjgjin.png)
+![](https://a.pomfe.co/xifqvkz.jpg)
 
-![](https://a.pomfe.co/gvsxatd.png)
+![](https://a.pomfe.co/rdvmgji.jpg)
 
 ## 4chan.json
 
